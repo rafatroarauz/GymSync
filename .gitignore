@@ -1,0 +1,18 @@
+# Datos generados al ejecutar GymSync
+data/
+comprobantes/
+reportes/
+backups/
+*.tmp
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# PyInstaller (Etapa 6)
+build/
+dist/
+*.spec
